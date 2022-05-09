@@ -7,3 +7,4 @@
 * [3. 플라스크를 사용하는 이유](flask-web-framework/3..md)
 * [4. 라우팅](flask-web-framework/4..md)
 * [5. 홈페이지 구현](flask-web-framework/5..md)
+* [6. 읽기](flask-web-framework/6..md)
