@@ -12,3 +12,4 @@
   * [7.1 쓰기](flask-web-framework/7./7.1.md)
   * [7.2 쓰기](flask-web-framework/7./7.2.md)
 * [8. 수정](flask-web-framework/8..md)
+* [9. 삭제](flask-web-framework/9..md)
