@@ -16,4 +16,4 @@
 
 ## 시니어코딩 - 파이썬 웹개발 Flask
 
-* [0](flask/0.md)
+* [0. 기본 화면 만들기(MdBootstrap)](flask/0.md)
