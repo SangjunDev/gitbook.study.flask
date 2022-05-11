@@ -17,3 +17,8 @@
 ## 시니어코딩 - 파이썬 웹개발 Flask
 
 * [0. 기본 화면 만들기(MdBootstrap)](flask/0.md)
+* [1. 플라스크 기초 및 웹서버 개발의 개념 이해](flask/1./README.md)
+  * [Install Flask & Setup Flask Project](flask/1./install-flask-and-setup-flask-project.md)
+  * [Hello Flask World](flask/1./hello-flask-world.md)
+  * [Global Object:g](flask/1./global-object-g.md)
+  * [Response Objects](flask/1./response-objects.md)
