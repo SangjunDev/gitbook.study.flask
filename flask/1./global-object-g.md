@@ -1,8 +1,9 @@
 # Global Object:g
 
-Application Context
+**Application Context**
 
 * Application 영역에서 붙어있는 모든 사람을 컨트롤 하고 싶을때 사용
+* _\_\_init_\_\_.py
 
 ```
 from flask import Flask,g

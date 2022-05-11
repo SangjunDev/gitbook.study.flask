@@ -22,3 +22,4 @@
   * [Hello Flask World](flask/1./hello-flask-world.md)
   * [Global Object:g](flask/1./global-object-g.md)
   * [Response Objects](flask/1./response-objects.md)
+  * [Response Objects (Cont'd) : WSGI](flask/1./response-objects-contd-wsgi.md)
