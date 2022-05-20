@@ -23,3 +23,7 @@
   * [Global Object:g](flask/1./global-object-g.md)
   * [Response Objects](flask/1./response-objects.md)
   * [Response Objects (Cont'd) : WSGI](flask/1./response-objects-contd-wsgi.md)
+
+## 고준서 - 파이썬과 파이어베이스로 커뮤니티 사이트 만들기
+
+* [파이어베이스로 파이썬 데이터베이스 구축하기](undefined/undefined.md)
